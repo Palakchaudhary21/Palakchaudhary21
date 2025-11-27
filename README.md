@@ -413,8 +413,8 @@ As a versatile Software Engineer and Frontend Developer, I specialize in Fronten
 <table align="center">
   <tr>
     <td colspan="3" align="center">
-      <a href="mailto:baritejas21@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=baritejas21@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
+      <a href="mailto:palakrachana@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=palakrachana@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
