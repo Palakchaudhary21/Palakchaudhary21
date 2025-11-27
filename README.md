@@ -18,7 +18,7 @@
   <tr>
     <td align="center">
       <a href="https://www.youtube.com/@ZeusOp21" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40ZeusOp21&subtitle=@ZeusOp21&size=square" alt="Zeus Op">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40PalakChaudhary-q1x&subtitle=@PalakChaudhary-q1x&size=square" alt="Palak Chaudhary">
       </a>
     </td>
     <td align="center">
