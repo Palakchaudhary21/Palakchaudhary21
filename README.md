@@ -22,8 +22,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.instagram.com/tejasbari_21/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Ftejasbari_21%2F&subtitle=@tejasbari_21&size=square" alt="TEJAS BARI">
+      <a href="https://www.instagram.com/palak_ch_219/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fpalak_ch_219%2F&subtitle=@palak_ch_219&size=square" alt="PALAK CHAUDHARY">
     
    
    <td align="center">
