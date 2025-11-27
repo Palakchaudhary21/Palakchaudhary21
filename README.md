@@ -45,40 +45,40 @@ As a versatile Software Engineer and Frontend Developer, I specialize in Fronten
 
 <h3 align="center">Git Stats</h3>
 <div align="center">
- <img src="https://streak-stats.demolab.com?userTEJASBARI&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com?userPALAKCHAUDHARY&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TEJASBARI&custom_title=TEJASBARI's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PALAKCHAUDHARY&custom_title=PALAKCHAUDHARY's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 
 <br>
 <div align="center">
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEJASBARI&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PALAKCHAUDHARY&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TEJASBARI&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PALAKCHAUDHARY&theme=highcontrast&hide_border=true" alt="Repos Per Language">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TEJASBARI&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PALAKCHAUDHARY&theme=highcontrast&hide_border=true" alt="Most Commit Language">
     </td>
   </tr>
 </table>
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=TEJASBARI&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="TEJASBARI's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=PALAKCHAUDHARY&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="PALAKCHAUDHARY's GitHub stats">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TEJASBARI&theme=highcontrast&hide_border=true" alt="TEJASBARI's Profile Details">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PALAKCHAUDHARY&theme=highcontrast&hide_border=true" alt="PALAKCHAUDHARY's Profile Details">
 
 ### Top Repositories
 <div align="center">
   <table>
     <tr>
       <td>
-        <a href="https://github.com/TEJASBARI/fast-gemini-nano">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TEJASBARI&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/PALAKCHAUDHARY/fast-gemini-nano">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PALAKCHAUDHARY&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
@@ -89,13 +89,13 @@ As a versatile Software Engineer and Frontend Developer, I specialize in Fronten
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/TEJASBARI/moviedjangoai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/PALAKCHAUDHARY/moviedjangoai">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PALAKCHAUDHARY&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/TEJASBARI/speech-to-text.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TEJASBARI&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/PALAKCHAUDHARY/speech-to-text.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PALAKCHAUDHARY&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
@@ -110,20 +110,20 @@ As a versatile Software Engineer and Frontend Developer, I specialize in Fronten
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
   </summary>
   
-  <img src="https://myreadme.vercel.app/api/embed/TEJASBARI?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="RAFIKSHA's GitHub Stats">
+  <img src="https://myreadme.vercel.app/api/embed/PALAKCHAUDHARY?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="PALAKCHAUDHARY's GitHub Stats">
 
-  <img src="https://github-readme-bento.vercel.app/stats/TEJASBARI?theme=dark" alt="TEJASBARI GitHub Stats">
+  <img src="https://github-readme-bento.vercel.app/stats/PALAKCHAUDHARY?theme=dark" alt="PALAKCHAUDHARY GitHub Stats">
 </details>
 
 <br>
 
 
 <details>
-  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for TEJASBARI&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
+  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for PALAKCHAUDHARY&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
 
   <h2>Star History Chart</h2>
-  <a href="https://star-history.com/#TEJASBARI/TEJASBARI&Date">
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=TEJASBARI/TEJASBARI&type=Date&theme=dark" />
+  <a href="https://star-history.com/#PALAKCHAUDHARY/PALAKCHAUDHARY&Date">
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=PALAKCHAUDHARY/PALAKCHAUDHARY&type=Date&theme=dark" />
   </a>
 </details>
 
@@ -132,7 +132,7 @@ As a versatile Software Engineer and Frontend Developer, I specialize in Fronten
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=TEJASBARI&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=PALAKCHAUDHARY&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
 </details>
 
 
@@ -143,11 +143,11 @@ As a versatile Software Engineer and Frontend Developer, I specialize in Fronten
 <h2 align="center">Socials Stats</h2>
 <div align="center">
   <div align="center">
-    <a href="https://www.instagram.com/tejasbari__21/" target="_blank">
+    <a href="https://www.instagram.com/palak_ch_219/" target="_blank">
       <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
     </a>
     <h3>
-      <a href="https://www.instagram.com/tejasbari__21/" target="_blank" style="color: #e4405f; text-decoration: none; font-weight: bold;">
+      <a href="https://www.instagram.com/palak_ch_219/" target="_blank" style="color: #e4405f; text-decoration: none; font-weight: bold;">
         Follow Me on Instagram
       </a>
     </h3>
@@ -156,8 +156,8 @@ As a versatile Software Engineer and Frontend Developer, I specialize in Fronten
     <tr>
       <td align="center" style="border: none;">
         <div>
-          <img src="https://img.shields.io/badge/Instagram-0%20posts-e4405f?style=flat-square&logo=instagram" alt="Instagram Posts">
-          <img src="https://img.shields.io/badge/Instagram-382%20followers-e4405f?style=flat-square&logo=instagram" alt="Instagram Followers">
+          <img src="https://img.shields.io/badge/Instagram-12%20posts-e4405f?style=flat-square&logo=instagram" alt="Instagram Posts">
+          <img src="https://img.shields.io/badge/Instagram-351%20followers-e4405f?style=flat-square&logo=instagram" alt="Instagram Followers">
         </div>
       </td>
     </tr>
