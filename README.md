@@ -418,8 +418,8 @@ As a versatile Software Engineer and Frontend Developer, I specialize in Fronten
       </a>
     </td>
     <td align="center">
-  <a href="https://wa.me/9272991171" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-9272991171&size=square" alt="India-+91-927-299-1171" style="margin: 10px;">
+  <a href="https://wa.me/9284967174" target="_blank">
+    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-9284967174&size=square" alt="India-+91-928-496-7174" style="margin: 10px;">
   </a>
 </td>
 
