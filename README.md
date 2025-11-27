@@ -27,8 +27,8 @@
     
    
    <td align="center">
-  <a href="https://github.com/TejasBari21" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FTejasBari21&subtitle=TejasBari21&size=square" alt="TEJAS BARI">
+  <a href="https://github.com/Palakchaudhary21" target="_blank">
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FPalakchaudhary21&subtitle=Palakchaudhary&size=square" alt="PALAK CHAUDHARY">
   </a>
 </td>
 
